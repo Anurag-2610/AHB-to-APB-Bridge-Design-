@@ -78,7 +78,7 @@ The project aims to design and simulate a synthesizable AHB to APB bridge using 
 - Generating the timing strobe `PENABLE` for APB transfers.
 
 **Bridge Interface:**
-![APB Bridge]()
+![APB Bridge](https://github.com/Anurag-2610/AHB-to-APB-Bridge-Design-/blob/main/Block%20Diagram.png)
 
 ### Basic Implementation Tools
 

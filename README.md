@@ -111,7 +111,7 @@ The simulation demonstrates successful mapping of AHB bus operations to the APB 
 ## Synthesis Results
 
 **RTL Model:**
-![bridge_rtl]()
+![bridge_rtl](https://github.com/Anurag-2610/AHB-to-APB-Bridge-Design-/blob/main/Synthesis.png)
 
 **State Machine Viewer:**
 ![bridge_fsm](https://user-images.githubusercontent.com/91010702/194485981-4a8f44e9-390b-4100-84b3-abe9c4930377.png)

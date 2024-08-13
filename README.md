@@ -25,7 +25,7 @@ The ASB offers an alternative to AHB, designed for cases where extreme performan
 APB is tailored for low-power peripheral functions. It simplifies the interface and reduces power consumption, working in conjunction with AHB or ASB for comprehensive system integration.
 
 **Architecture Overview:**
-![AMBA System]()
+![AMBA System](https://github.com/Anurag-2610/AHB-to-APB-Bridge-Design-/blob/main/Architecture.png)
 
 ## Basic Terminology
 

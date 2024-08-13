@@ -103,7 +103,8 @@ The APB controller consists of a state machine for generating APB and AHB output
 The simulation demonstrates successful mapping of AHB bus operations to the APB bus, including both write and read operations.
 
 **Simulation Screenshot:**
-![simulation_AHBtoAPB](https://user-images.githubusercontent.com/91010702/194483573-0e104260-c1b7-4810-88fe-c9aa4a32395f.png)
+![simulation_AHBtoAPB]
+![Single Write]()
 
 ## Synthesis Results
 

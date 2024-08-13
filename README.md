@@ -105,7 +105,7 @@ The simulation demonstrates successful mapping of AHB bus operations to the APB 
 **Simulation Screenshot:**
 ![simulation_AHBtoAPB]
 ![Single Write](https://github.com/Anurag-2610/AHB-to-APB-Bridge-Design-/blob/main/Single%20Write.png)
-![Burst Write]()
+![Burst Write](https://github.com/Anurag-2610/AHB-to-APB-Bridge-Design-/blob/main/Burst%20write.png)
 ![single Read]()
 
 ## Synthesis Results
